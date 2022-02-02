@@ -103,7 +103,7 @@ body{
     font-size: 28px;
     position: absolute;
     left: 680px;
-    top: 450px;
+    top: 430px;
 }
 
 #showVowelsBtn{
@@ -140,7 +140,7 @@ body{
     color: red;
     position: absolute;
     left: 800px;
-    top: 315px;
+    top: 285px;
 }
 
 .img{
